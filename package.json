@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/smart-order-router",
+  "name": "@rurgos/smart-order-router-alfa",
   "version": "3.0.6",
   "description": "Uniswap Smart Order Router",
   "main": "build/main/index.js",

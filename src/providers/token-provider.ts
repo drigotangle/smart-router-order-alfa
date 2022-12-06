@@ -130,21 +130,21 @@ export const USDT_RINKEBY = new Token(
 
 export const USDC_GÖRLI = new Token(
   ChainId.GÖRLI,
-  '0x07865c6e87b9f70255377e024ace6630c1eaa37f',
+  '0x07865c6E87B9F70255377e024ace6630C1Eaa37F',
   6,
   'USDC',
   'USD//C'
 );
 export const USDT_GÖRLI = new Token(
   ChainId.GÖRLI,
-  '0xe583769738b6dd4e7caf8451050d1948be717679',
+  '0xD87Ba7A50B2E7E660f678A895E4B72E7CB4CCd9C',
   18,
   'USDT',
   'Tether USD'
 );
 export const WBTC_GÖRLI = new Token(
   ChainId.GÖRLI,
-  '0xa0a5ad2296b38bd3e3eb59aaeaf1589e8d9a29a9',
+  '0xF0CB01f304C657fdD2492bAd6C2c29CFCDc74AF7',
   8,
   'WBTC',
   'Wrapped BTC'
@@ -158,7 +158,7 @@ export const DAI_GÖRLI = new Token(
 );
 export const UNI_GÖRLI = new Token(
   ChainId.GÖRLI,
-  '0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984',
+  '0x288127Fe23304C8a2636529376A21e904327151C',
   18,
   'UNI',
   'Uni token'
