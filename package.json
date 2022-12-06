@@ -1,5 +1,5 @@
 {
-  "name": "@rurgos/smart-order-router-alfa",
+  "name": "@drigotangle/smart-order-router-alfa",
   "version": "1.0.0",
   "description": "Uniswap Smart Order Router alfa for tangleswap",
   "main": "build/main/index.js",
